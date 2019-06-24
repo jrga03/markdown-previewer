@@ -1,0 +1,2 @@
+body{margin:0;padding:0;font-family:sans-serif}#container{-ms-flex-direction:row;flex-direction:row;position:absolute;width:900px;margin:auto;top:0;bottom:0;left:0;right:0;padding:50px 0}#container,.column{display:-ms-flexbox;display:flex;-ms-flex-pack:center;justify-content:center}.column{-ms-flex-align:stretch;align-items:stretch;-ms-flex:0.5 1;flex:0.5 1;margin:0 5px}#textarea{-ms-flex:1 1;flex:1 1;font-size:18px;resize:none;outline:none;padding:10px;margin-bottom:50px}
+/*# sourceMappingURL=main.94ce8aee.css.map*/
